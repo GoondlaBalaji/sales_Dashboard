@@ -112,4 +112,4 @@ Shipping mode analysis helps logistics teams reduce costs and enhance delivery s
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/GoondlaBalaji/Choclate_dashboard_BI/blob/main/Screenshot%202025-05-20%20123103.png)
+Example: ![Dashboard Preview](https://github.com/GoondlaBalaji/sales_Dashboard/blob/main/Screenshot%202025-05-21%20175533.png)
